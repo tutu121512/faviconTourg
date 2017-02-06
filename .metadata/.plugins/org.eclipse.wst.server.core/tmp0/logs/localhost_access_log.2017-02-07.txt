@@ -1,0 +1,4 @@
+127.0.0.1 - - [07/Feb/2017:01:14:17 +0900] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [07/Feb/2017:01:14:19 +0900] "GET /controller/ HTTP/1.1" 200 1751
+0:0:0:0:0:0:0:1 - - [07/Feb/2017:01:14:19 +0900] "GET /controller/resources/main/css/component.css;jsessionid=83FDA828F5E1DFF51C82C9F1997EB97B HTTP/1.1" 200 8332
+0:0:0:0:0:0:0:1 - - [07/Feb/2017:01:14:19 +0900] "GET /controller/resources/main/js/modernizr.custom.js;jsessionid=83FDA828F5E1DFF51C82C9F1997EB97B HTTP/1.1" 200 9174
